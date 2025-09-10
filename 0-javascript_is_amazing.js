@@ -1,1 +1,2 @@
-console.log("JavaScript is amazing!");
+Variable myVar = "JavaScript is amazing";
+console.log("myVar");
