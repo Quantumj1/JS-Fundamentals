@@ -1,2 +1,2 @@
-Variable myVar = "JavaScript is amazing";
+String myVar = "JavaScript is amazing";
 console.log("myVar");
